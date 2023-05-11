@@ -1,6 +1,10 @@
 # Agora - Task list
 Agora is a little todo list app made in React Native for practicing its main basic features.
 
+<p align="center">
+  <img src="https://github.com/nadjiel/agora/assets/97067805/691b8d65-be71-4e7d-bda1-98433ece49a9" height="500">
+</p>
+
 ## Installing and running
 
 > ### Requirements:

@@ -1,6 +1,10 @@
 # Agora - Lista de tarefas
 Agora é uma pequena lista de afazeres feita em React Native para prática de suas principais funcionalidades básicas.
 
+<p align="center">
+  <img src="https://github.com/nadjiel/agora/assets/97067805/691b8d65-be71-4e7d-bda1-98433ece49a9" height="500">
+</p>
+
 ## Instalando e rodando
 
 > ### Requisitos:
